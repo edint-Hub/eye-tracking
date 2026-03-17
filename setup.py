@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="edint_eyetracking",
-    version="0.1.0",
+    version="0.1.1",
     author="Edint",
     author_email="sonjuhy@edint.io",
     description="MediaPipe 기반의 시선 추적(Eye Tracking) 라이브러리",
